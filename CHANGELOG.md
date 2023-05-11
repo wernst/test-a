@@ -1,5 +1,11 @@
 # @wernst-test/test-a
 
+## 0.0.12
+
+### Patch Changes
+
+- 8345707: test
+
 ## 0.0.11
 
 ### Patch Changes
